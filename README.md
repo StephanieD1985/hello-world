@@ -1,2 +1,3 @@
 # hello-world
-My name is Stephanie and I am a mom.
+# About Me
+My name is Stephanie and I love dogs.
